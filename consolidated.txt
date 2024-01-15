@@ -1,0 +1,9 @@
+
+The consolidated readings for time 0 - 50 are: 
+PID0001: <oxy1, oxygen, RUNNING, <0.0, 50.0>, 6,0,96.3,97.0,95.0>
+
+The consolidated readings for time 60 - 110 are: 
+PID0001: <oxy1, oxygen, RUNNING, <60.0, 110.0>, 6,0,93.0,98.0,90.0>
+
+The consolidated readings for time 120 - 130 are: 
+PID0001: <oxy1, oxygen, RUNNING, <120.0, 130.0>, 2,0,98.5,99.0,98.0>
